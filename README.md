@@ -1,10 +1,10 @@
 # Hey there, I'm Wassim 👋
 
-I'm a passionate software engineer with years of professional experience building both back-end and front-end systems for dynamic startups. My journey in tech has taken me from crafting robust APIs to designing sleek user interfaces—but somewhere along the way, I discovered my true passion: trust-less computing, distributed ledger technologies (DLTs), and blockchain. 🚀
+A passionate software engineer with many years of professional experience. I have worked for various start-ups developing back-end and front-end systems. Over time, I developed a passion for trust-less computing, DLTs and blockchain technology. Working on Blockchain projects is a way for me to contribute to a more open, trust-less and verifiable web. 🚀
 
 ## What I Do
 
-I love building systems that are open, verifiable, and truly decentralized. Blockchain isn’t just a buzzword for me—it’s a way to empower users and foster trust in an increasingly digital world. Whether it's writing smart contracts, architecting scalable back-ends, or exploring the next big protocol, I'm all in.
+I’m passionate by the idea of a Web3 cloud—a decentralized, trustless infrastructure where interoperability and shared security redefine how data and value move. With innovations like the transformative JAM protocol, as detailed in its gray paper, we’re laying the groundwork for a resilient, open, and truly global network that empowers individuals and dismantles centralized gatekeepers.
 
 ## Current Adventures
 
@@ -17,13 +17,13 @@ Right now, I'm diving deep into the Polkadot ecosystem, contributing to innovati
 ## Fun Stats & Tidbits
 
 - **Years in Software Development:** 10+ years  
-- **Tech Stacks:** Elixir, Rust, JavaScript, and more...  
+- **Tech Stacks:** Elixir, Rust, TypeScript, and more...  
 - **Favorite Emoji:** 🔐 (because secure, trust-less computing is my jam!)  
 - **Philosophy:** Code should empower, not obscure. I strive to build systems that are as transparent as they are powerful.
 
 ## Let's Connect
 
-I'm always excited to connect with fellow developers, blockchain enthusiasts, and curious minds. Feel free to reach out on [LinkedIn](#) or drop me a line via email at [you@example.com](mailto:you@example.com).
+- **Matrix:** [@wassimans:matrix.org](https://matrix.to/#/@wassimans:matrix.org)
 
 ---
 
