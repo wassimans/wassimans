@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Wassim 👋
 
 I'm a passionate software engineer with years of professional experience building both back-end and front-end systems for dynamic startups. My journey in tech has taken me from crafting robust APIs to designing sleek user interfaces—but somewhere along the way, I discovered my true passion: trust-less computing, distributed ledger technologies (DLTs), and blockchain. 🚀
 
