@@ -17,7 +17,8 @@ Right now, I'm diving deep into the Polkadot ecosystem, contributing to innovati
 ## Fun Stats & Tidbits
 
 - **Years in Software Development:** 10+ years  
-- **Tech Stacks:** Elixir, Rust, TypeScript, and more...  
+- **Tech Stacks:** Elixir, Rust, TypeScript, and more...
+- **Text Editor:** Doom Emacs, of course! 😈
 - **Favorite Emoji:** 🔐 (because secure, trust-less computing is my jam!)  
 - **Philosophy:** Code should empower, not obscure. I strive to build systems that are as transparent as they are powerful.
 
