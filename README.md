@@ -8,10 +8,11 @@ I’m passionate by the idea of a Web3 cloud—a decentralized, trustless infras
 
 ## Current Adventures
 
-Right now, I'm diving deep into the Polkadot ecosystem, contributing to innovative projects that are reshaping the web:
+Right now, I'm diving deep into the Polkadot ecosystem, trying to get my hands dirty working on my own project (ScholarLedger):
 
-- **[JAMIXIR](https://github.com/jamixir)**: An Elixir implementation of the JAM protocol, bringing the power of trust-less computing to the Elixir community. 🔥
 - **[ScholarLedger](https://github.com/ScholarLedger)**: a blockchain-based platform designed to support the peer review process for academic institutions. 🏫
+
+At the same time, I'm trying to get invloved into the Polakdot SDK ecosystem to start contributing.
 
 ## Fun Stats & Tidbits
 
