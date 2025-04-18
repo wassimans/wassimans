@@ -8,9 +8,9 @@ I’m passionate by the idea of a Web3 cloud—a decentralized, trustless infras
 
 ## Current Adventures
 
-Right now, I'm diving deep into the Polkadot ecosystem, trying to get my hands dirty working on my own project (ScholarLedger):
+Right now, I'm diving deep into the Rust ecosystem, trying to get my hands dirty learning and implementing things:
 
-- **[ScholarLedger](https://github.com/ScholarLedger)**: a blockchain-based platform designed to support the peer review process for academic institutions. 🏫
+- **[Algorithms and Data Structures in Rust](https://github.com/wassimans/algorithms-and-data-structures-in-rust)**
 
 At the same time, I'm trying to get invloved into the Polakdot SDK ecosystem to start contributing.
 
