@@ -1,6 +1,8 @@
 # Hey there, I'm Wassim 👋
 
-A passionate software engineer with many years of professional experience. I have worked for various start-ups developing back-end and front-end systems. Over time, I developed a passion for trust-less computing, DLTs and blockchain technology. Working on Blockchain projects is a way for me to contribute to a more open, trust-less and verifiable web. 🚀
+A passionate software engineer with many years of professional experience. I have worked for various start-ups developing back-end and front-end systems. Over time, I developed a passion for trust-less computing, DLTs and blockchain technology. Working on Web3 projects is a way for me to contribute to a more open, trust-less and verifiable web. 🚀
+
+**By the way, I'm a proud Polkadot Blockchain Academy Lucerne (2025) alumni.**
 
 ## What I Do
 
