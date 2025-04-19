@@ -4,10 +4,6 @@ A passionate software engineer with many years of professional experience. I hav
 
 **By the way, I'm a proud Polkadot Blockchain Academy Lucerne (2025 Protocol track) alumni.**
 
-## What I Do
-
-I’m passionate by the idea of a Web3 cloud—a decentralized, trustless infrastructure where interoperability and shared security redefine how data and value move. With innovations like the transformative JAM protocol, as detailed in its gray paper, we’re laying the groundwork for a resilient, open, and truly global network that empowers individuals and dismantles centralized gatekeepers.
-
 ## Current Adventures
 
 Right now, I'm diving deep into the Rust ecosystem, trying to get my hands dirty learning and implementing things:
